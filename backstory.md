@@ -12,7 +12,7 @@ THE EGG HAD ANOTHER EGG INSIDE!? It turns out this is a rare but [well-documente
 
 Couldn't use that egg and cracked open a second egg. This one had a double yolk! While not as rare, it is still fairly atypical.
 
-![Typical egg](images/03_typical)
+![Typical egg](images/03_typical.jpeg)
 
 The third egg was typical. At this point we figured the fun was over, but the next five eggs proved us wrong:
 
