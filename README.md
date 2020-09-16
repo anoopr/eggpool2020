@@ -15,6 +15,6 @@ Welcome to Egg Pool 2020. If you're wondering WTF this is, please read the [back
 ## How to play
 
 1. Get to know the [eggs](eggs.md).
-1. DM @anoopr on Slack with your guesses for the remaining 16 eggs.
+1. Add your guesses to the spreadsheet link pinned in the #cooking channel. DM @anoopr if you can't find it!
 1. You may change your guesses for the remaining eggs at anytime.
 1. Highest score after Egg #24 wins! 
